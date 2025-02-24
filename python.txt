@@ -1,1 +1,3 @@
 console.log("a+b")
+toys = 10;
+print (f"I have {toys} Toys.")
