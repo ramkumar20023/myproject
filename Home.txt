@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LernHub</title>
+    <link rel="stylesheet" href="learnhub.css" />
+  </head>
+  <body>
+    <div>
+      <div class="MainContainer">
+        <nav>
+          <h1>LearnHub</h1>
+          <ul>
+            <li>Home</li>
+            <li>Courses</li>
+            <li>Instructors</li>
+            <li>Testimonials</li>
+            <li>Contact</li>
+          </ul>
+        </nav>
+      </div>
+        <div class="Container">
+          <h3>Unlock your Learning Potential</h3>
+          <p>Join thousand of students learning new skills online</p>
+          <button>Star Learning</button>
+        </div>
+    </div>
+  </body>
+</html>
